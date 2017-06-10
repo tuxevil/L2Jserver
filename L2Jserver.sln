@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\L2Jserver\", "..\..\WebSites\L2Jserver\", "{9FBFBE11-75CD-4B97-A572-7A49DD6C4807}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/L2Jserver"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\L2Jserver\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\L2Jserver\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/L2Jserver"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\L2Jserver\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\L2Jserver\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53278"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBFBE11-75CD-4B97-A572-7A49DD6C4807}.Debug|.NET.ActiveCfg = Debug|.NET
+		{9FBFBE11-75CD-4B97-A572-7A49DD6C4807}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
